@@ -1,0 +1,29 @@
+<template>
+    <div class="ClassName">
+
+    </div>
+</template>
+
+<style lang="sass" scoped>
+    @import './index.scss';
+</style>
+
+<script>
+
+
+export default {
+    name: 'templateName',
+    data() {
+        return {
+            
+        };
+    },
+    
+    methods: {
+        
+    },
+    mounted() {
+        
+    },
+};
+</script>
